@@ -12,7 +12,7 @@ from llm import answer_with_rag
 
 
 DEFAULT_EMBED_MODEL = "all-MiniLM-L6-v2"
-DEFAULT_OLLAMA_MODEL = "gemma4:26b"
+DEFAULT_OLLAMA_MODEL = "gemma4"
 
 
 def reset_index_state() -> None:
