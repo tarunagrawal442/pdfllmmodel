@@ -1,0 +1,12 @@
+streamlit
+pandas
+plotly
+openai
+python-dotenv
+pydantic
+pdfplumber
+ollama
+sentence-transformers
+faiss-cpu
+numpy
+torchvision
